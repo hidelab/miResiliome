@@ -38,11 +38,7 @@ Put the downloaded files in `data/`.
 ## Software environment
 
 The analyses were run in R 4.4.1. The full list of packages and versions is in
-[`sessionInfo.txt`](sessionInfo.txt). To regenerate it, run this from the project root:
-
-```sh
-Rscript code/sessionInfo.R
-```
+[`sessionInfo.txt`](sessionInfo.txt) and reproduced below.
 
 ## Citation
 
@@ -50,7 +46,7 @@ If you use this code, please cite the publication above.
 
 ## Session info
 
-Output of `code/sessionInfo.R` (also saved in [`sessionInfo.txt`](sessionInfo.txt)):
+R `sessionInfo()` output (also saved in [`sessionInfo.txt`](sessionInfo.txt)):
 
 ```
 Generated: 2026-11-20 11:50:09 EST
