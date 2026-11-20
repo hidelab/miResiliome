@@ -1,0 +1,22 @@
+# ---- OS / editor / R session files ----
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+.claude/
+
+# ---- Any "misc" folder, at any depth (code/misc, output/Misc, misc/, ...) ----
+**/misc/
+**/Misc/
+
+# ---- data: keep the folder, ignore its contents ----
+data/*
+!data/.gitkeep
+
+# ---- output: ignore everything except output/Bulk_paths_prop_odds ----
+output/*
+!output/Bulk_paths_prop_odds/
+
+# ---- Other top-level folders not meant for the repo ----
+Manuscript/
+Output11/
