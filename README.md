@@ -16,7 +16,6 @@ This repository contains the code to reproduce the analyses in:
 | `code/miRNA_processing/` | miRNA reannotation, normalization, differential expression, pathology/cognition models, co-expression, and miRNA–mRNA integration |
 | `code/mRNA_processing/` | mRNA expression normalization and resilience differential expression |
 | `code/pathways/` | Pathway analysis, pathology/cognition models, and PanomiR analysis |
-| `setting/` | Parameter files used by the analysis scripts |
 | `data/` | Placeholder for input data (not included; see below) |
 | `output/` | Analysis outputs (only `Bulk_paths_prop_odds/` is included) |
 

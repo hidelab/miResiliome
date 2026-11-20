@@ -20,3 +20,4 @@ output/*
 # ---- Other top-level folders not meant for the repo ----
 Manuscript/
 Output11/
+setting/
